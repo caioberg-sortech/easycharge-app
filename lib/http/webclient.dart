@@ -1,6 +1,5 @@
 import 'dart:convert';
 
-import 'package:brasil_fields/brasil_fields.dart';
 import 'package:easycharge/models/clienteApi.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
